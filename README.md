@@ -1,3 +1,5 @@
 # Learning HTML5 And CSS3 Beginner to Advance 🗽🚀
 
-*The Goal of this repo is depot my beginner level html & css tags.* 🚀🛩
+*The goal of this repo is to depot my beginner level HTML & CSS tags.* 🚀🛩
+
+   
