@@ -1,0 +1,20 @@
+body{
+   background: url(https://images.hdqwalls.com/wallpapers/spiderman-miles-lost-in-space-4k-0f.jpg);
+   background-repeat: no-repeat;
+}
+
+
+div{
+  background-color: black;
+  border-color: whitesmoke;
+  border-width: thick;
+  border-style: double;
+}
+
+p{
+  color: red;
+}
+
+span{
+  background-color: green;
+}
